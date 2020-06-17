@@ -1,3 +1,3 @@
-def introduction(dan, ember.js)
-  puts "Hi, my name is #{dan} and I am learning #{ember.js}."
+def introduction_with_language(name, language)
+  puts "Hi, my name is #{name} and I am learning #{language}."
 end
